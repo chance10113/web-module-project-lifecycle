@@ -1,0 +1,33 @@
+
+body {
+  background-color: lavenderblush;
+}
+
+.container {
+  text-align: center;
+  background-color: antiquewhite;
+  align-items: center;
+}
+
+.userCard {
+  display:flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.userImg{
+  width:20%;
+  /* margin:0% 0.5% 0% 0%; */
+}
+
+img {
+  width:20%;
+  /* margin:0% 0.5% 0% 0%; */
+}
+
+.followerCard {
+  display:flex;
+  text-align: center;
+  justify-content: space-evenly;
+  margin: 3% 0 0 3%
+}
